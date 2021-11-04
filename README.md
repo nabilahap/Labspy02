@@ -37,6 +37,6 @@
 ![Gambar10](ssLat3/ss1.png)
 
 #### Output
-![Gambar11](ssLat3/ss2.png)
+![Gambar11](ssLat3/Ss2.png)
 
 ## Terima kasih
