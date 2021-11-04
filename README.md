@@ -29,7 +29,7 @@
 ![Gambar8](ssLat2/ss1.png)
 
 #### Output
-![Gambar9](ssLat2/ss2.png)
+![Gambar9](ssLat2/Screenshot2.png)
 
 ## Latihan3
 ### Program membandingkan 3 input bilangan
