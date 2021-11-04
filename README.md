@@ -21,3 +21,4 @@
 ![Gambar6](ssLat1/ss1.png)
 
 #### Output
+![Gambar7](ssLat1/ss2.png)
