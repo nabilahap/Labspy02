@@ -22,3 +22,11 @@
 
 #### Output
 ![Gambar7](ssLat1/ss2.png)
+
+## Latihan2
+### Program menampilkan status gaji karyawan
+#### Program
+![Gambar8](ssLat2/ss1.png)
+
+#### Output
+![Gambar9](ssLat2/ss2.png)
