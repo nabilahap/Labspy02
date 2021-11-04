@@ -30,3 +30,13 @@
 
 #### Output
 ![Gambar9](ssLat2/ss2.png)
+
+## Latihan3
+### Program membandingkan 3 input bilangan
+#### Program
+![Gambar10](ssLat3/ss1.png)
+
+#### Output
+![Gambar11](ssLat3/ss2.png)
+
+## Terima kasih
